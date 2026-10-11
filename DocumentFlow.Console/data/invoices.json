@@ -1,0 +1,35 @@
+[
+  {
+    "invoiceNumber": "FV/2026/08/014",
+    "contractorName": "Biuro Plus Sp. z o.o.",
+    "contractorNip": "5260001234",
+    "issueDate": "2026-08-20",
+    "dueDate": "2026-09-19",
+    "netAmount": 1000.00,
+    "vatAmount": 230.00,
+    "grossAmount": 1230.00,
+    "currency": "PLN"
+  },
+  {
+    "invoiceNumber": "2026/09/0387",
+    "contractorName": "TransLog Kowalski i Wspólnicy",
+    "contractorNip": "7740005678",
+    "issueDate": "2026-09-25",
+    "dueDate": "2026-10-09",
+    "netAmount": 2450.00,
+    "vatAmount": 563.50,
+    "grossAmount": 3013.50,
+    "currency": "PLN"
+  },
+  {
+    "invoiceNumber": "INV-10-2026-77",
+    "contractorName": "SoftHouse Serwis S.A.",
+    "contractorNip": "6340009012",
+    "issueDate": "2026-10-05",
+    "dueDate": "2026-11-04",
+    "netAmount": 4200.00,
+    "vatAmount": 966.00,
+    "grossAmount": 5166.00,
+    "currency": "PLN"
+  }
+]
